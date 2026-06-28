@@ -1,4 +1,4 @@
-Readme · MDGoogle DriveInfluenza Polymerase Research Digest
+Influenza Polymerase Research Digest
 
 A lightweight research blog that aggregates and summarizes recent papers on influenza polymerase from PubMed. Uses AI to generate plain-language summaries of technical abstracts, making cutting-edge research accessible to scientists across disciplines.
 
